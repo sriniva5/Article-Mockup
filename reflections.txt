@@ -1,0 +1,14 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+I have learned how to properly format HTML tags. I particularly learned about the purpose of src and href for handling images and links, respectively. I also learned how to call local images from my computer using relative paths.
+
+I thought that the actual formatting of tags was easy. I previously edited pages in my GitHub repositories using HTML, particularly headers and text. Now, I have context on how to add images and links.
+
+I didn’t understand relative paths in the problem set initially. I struggled with the relative path problem, but I took some time away and realized I didn’t even need to include the figures file name in the path — just include the image file name.
+
+Going ahead, I think that researching in the Mozilla Developer Network will help me in the future projects. I’ve learned about more efficient practices, like using figures.
